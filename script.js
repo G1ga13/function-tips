@@ -132,3 +132,7 @@ function plusAnswer(num1, num2) {
 
 console.log(plus(2, 5, plusAnswer));
  
+square = (num) => {console.log(num * num);}
+
+square(5)
+ 
